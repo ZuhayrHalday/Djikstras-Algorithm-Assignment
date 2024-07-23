@@ -1,4 +1,4 @@
-### Shortest Path Algorithms in Java
+# Shortest Path Algorithms in Java
 
 ## Overview
 
