@@ -1,8 +1,4 @@
-Here's a GitHub README for your project that includes a detailed description of the program, its functionality, and how to use it:
-
----
-
-# Shortest Path Algorithms in Java
+### Shortest Path Algorithms in Java
 
 ## Overview
 
